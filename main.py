@@ -22,7 +22,7 @@ except ImportError:
 RENEW_URLS = [
     "https://host2play.gratis/server/renew?i=622e7ad6-40a0-4487-aeda-a6ef2ac178e1",
     "https://host2play.gratis/server/renew?i=36b4ebb9-c6bb-40dc-9e51-58e7d3b792a8",
-    "https://host2play.gratis/server/renew?i=b7ee6d4e-923f-4f1d-ba67-dcdd88948a88",
+    "https://host2play.gratis/server/renew?i=33518c2a-bf1c-488a-97a9-b64de350394f",
     "https://host2play.gratis/server/renew?i=7acfa628-7fe5-44b8-ae74-19add067d051",
     "https://host2play.gratis/server/renew?i=176ff1c7-087a-4312-a2ec-b591986fb82f",
     "",
